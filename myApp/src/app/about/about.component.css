@@ -1,0 +1,78 @@
+/*Content*/
+#Aboutcontent-first{
+  width:1350px;
+}
+.imgBack{
+  float:left;
+  width:150px;
+  position: relative;
+  top:100px;
+  left:190px;
+}
+#imgBackbtn{
+  border: none;
+  background-color: white;
+}
+#Aboutcontent{
+  float:right;
+  position:relative;
+  top:80px;
+  left:200px;
+  height:700px;
+  width:1200px;
+ background-color: white;
+}
+/*---------------------*/
+#AboutL{
+  width:600px;
+  height:700px;
+  float: left;
+}
+#AboutR{
+  width:600px;
+  float:right;
+}
+#picOn{
+  width:600px;
+  height: 350px;
+}
+#pic1{
+  float:left;
+  width:300px;
+  height: 350px;
+  background-color: white;
+}
+#pic2{
+  float:right;
+  width:300px;
+}
+#picUn{
+  height:600px;
+  height:350px;
+}
+#pic3{
+  float:left;
+  width:300px;
+}
+#pic4{
+  float : right;
+  width:300px;
+  height:350px;
+  color:white;
+  background-color: #8BC9C0 ;
+}
+/*-----------------------txt-----------*/
+#imgBack{
+  position:relative;
+
+}
+.Abouttxt{
+  position: relative;
+  top:80px;
+  left:20px;
+}
+#AbouttxtR{
+  position:relative;
+  top:350px;
+  left:20px;
+}
